@@ -1,0 +1,9 @@
+.miniatures {
+    max-width: 200px;
+    max-height: 200px;
+}
+
+.pick-img {
+    margin : 10px;
+    padding: 20px;
+}
